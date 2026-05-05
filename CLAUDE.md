@@ -4,7 +4,7 @@ This file provides guidance to Claude Code (claude.ai/code) when working with co
 
 ## Overview
 
-This is a test repository for experimenting with Claude Code. The repository is currently minimal, containing only a README and LICENSE file.
+This is a test repository for experimenting with Claude Code.
 
 ## License
 
