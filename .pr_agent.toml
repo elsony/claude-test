@@ -1,0 +1,9 @@
+[pr_reviewer]
+# Enable automatic review on PR events
+auto_review = true
+# Review on PR edit events (including description changes)
+review_on_edit = true
+
+[github]
+# Configure which events trigger reviews
+auto_review_triggers = ["opened", "reopened", "edited", "synchronize"]
