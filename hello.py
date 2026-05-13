@@ -2,6 +2,7 @@
 
 def main():
     print("Hello from E")
+    print("How are you today?")
 
 if __name__ == "__main__":
     main()
